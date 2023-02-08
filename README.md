@@ -12,7 +12,7 @@ Link:
 https://www.hackerrank.com/challenges/maximize-it/problem?isFullScreen=true
 
 
-Submitted by:
+Submitted by: (Group 8)
 1. Bhavana Prasad Kote
 2. Rashmi Shree Veeraiah 
 3. Sawan Shivanand Beli
